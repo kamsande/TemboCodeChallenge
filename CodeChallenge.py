@@ -1,3 +1,6 @@
+#Kamaaria Sanders 
+#University of Michigan
+#Tembo Code Challenge
 
 
 parents = [
@@ -61,14 +64,4 @@ while count < len(parents):
     count = count + 1
 
 
-# Want to really shine and show us your chops?  Work in some of these stretch
-# goals using any tools or libraries you see fit.
-# - Personalize the message output to make it more friendly.
-# - Print one activity at a time per parent and continue cycling through until
-#   all parents have recieved all their activities.
-# - Allow users to input new activities & parents before executing the script.
-#
-# Get creative and have fun!
-# - Create a way to extend this challenge based on skills you're good at!
-# - Utilize git workflow and unit tests to build your script.
-# - Create a web page for users to enter their details and recieve activities.
+
